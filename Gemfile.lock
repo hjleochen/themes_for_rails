@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    themes_for_rails (1.5.1)
+    themes_for_rails4 (1.5.1)
       rails (>= 3.0.0)
 
 GEM
@@ -111,7 +111,7 @@ DEPENDENCIES
   mocha
   sqlite3
   test-unit
-  themes_for_rails!
+  themes_for_rails4!
 
 BUNDLED WITH
    1.10.5
