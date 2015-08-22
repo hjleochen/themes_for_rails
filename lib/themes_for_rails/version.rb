@@ -1,4 +1,4 @@
 # encoding: utf-8
 module ThemesForRails
-  VERSION = "0.5.1"
+  VERSION = "1.5.1"
 end
