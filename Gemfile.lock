@@ -2,10 +2,9 @@ PATH
   remote: .
   specs:
     themes_for_rails (0.5.1)
-      rails (>= 3.0.0)
 
 GEM
-  remote: http://rubygems.org/
+  remote: https://ruby.taobao.org/
   specs:
     abstract (1.0.0)
     actionmailer (3.0.11)
@@ -89,3 +88,6 @@ DEPENDENCIES
   sqlite3
   test-unit
   themes_for_rails!
+
+BUNDLED WITH
+   1.10.5
